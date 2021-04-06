@@ -1,0 +1,22 @@
+* {
+	text-align: center;
+	box-sizing: border-box;
+}
+.remaining-guesses > h2 {
+    display: inline;
+}
+#button {
+	font-size: 20px;
+	margin: 15px;
+}
+
+#guessField {
+	padding: 10px;
+	margin: 15px;
+	font-size: 20px;
+	box-sizing: border-box;
+}
+
+#feedback > *{
+	display: inline;
+}
